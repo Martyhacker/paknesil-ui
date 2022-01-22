@@ -1,0 +1,23 @@
+{
+    "dBoardTitle": "Esasy sahypa",
+    "navSendMoney": "Pul geçirmek",
+    "navRecMoney": "Pul kabul etmek",
+    "navMyCards": "Kartlarym",
+    "navHistory": "Taryh",
+    "navStatistics": "Statistika",
+    "navGovPayments": "Döwlet tölegleri",
+    "navCommPayments": "Aragatnaşyk tölegleri",
+    "navHousePayments": "Hojalyk tölegleri",
+    "navSettings": "Sazlamalar",
+    "navAboutUs": "Biz barada",
+    "navMyAccount": "Hasabym",
+    "setDarkTheme": "Garaňky tema",
+    "setDark": "Garaňky",
+    "setLight": "Ýagty",
+    "setSec": "Programma goragy",
+    "setSecTrue": "Goragly",
+    "setSecFalse": "Goragsyz",
+    "setAppSecSub": "Programmanyň gorag sazlamalary",
+    "setBio": "Barmak yzy arkaly giriş",
+    "setLang": "Dil"
+}

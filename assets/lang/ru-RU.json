@@ -1,0 +1,23 @@
+{
+    "dBoardTitle": "Главная страница",
+    "navSendMoney": "Отправлять деньги",
+    "navRecMoney": "Получать деньги",
+    "navMyCards": "Мои карты",
+    "navHistory": "История",
+    "navStatistics": "Статистика",
+    "navGovPayments": "Государственные платежи",
+    "navCommPayments": "Коммуникационные платежи",
+    "navHousePayments": "Оплата дома",
+    "navSettings": "Настройки",
+    "navAboutUs": "О нас",
+    "navMyAccount": "Мой аккаунт",
+    "setDarkTheme": "Темная тема",
+    "setDark": "Темный",
+    "setLight": "Светлый",
+    "setSec": "Безопасность \nприложений",
+    "setSecTrue": "Защищено",
+    "setSecFalse": "Небезопасный",
+    "setAppSecSub": "Настройки безопасности приложения",
+    "setBio": "Разблокировать \nпо отпечатку",
+    "setLang": "Язык"
+}

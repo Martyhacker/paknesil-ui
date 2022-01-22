@@ -1,0 +1,23 @@
+{
+    "dBoardTitle": "Dashboard",
+    "navSendMoney": "Send money",
+    "navRecMoney": "Receive money",
+    "navMyCards": "My cards",
+    "navHistory": "History",
+    "navStatistics": "Statistics",
+    "navGovPayments": "Government payments",
+    "navCommPayments": "Communication payments",
+    "navHousePayments": "House payments",
+    "navSettings": "Settings",
+    "navAboutUs": "About us",
+    "navMyAccount": "My account",
+    "setDarkTheme": "Dark theme",
+    "setDark": "Dark",
+    "setLight": "Light",
+    "setSec": "Application security",
+    "setSecTrue": "Secured",
+    "setSecFalse": "Unsecure",
+    "setAppSecSub": "App security settings",
+    "setBio": "Unlock using fingerprint",
+    "setLang": "Language"
+}
